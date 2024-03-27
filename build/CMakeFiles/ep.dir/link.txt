@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/ep.dir/main.cpp.o CMakeFiles/ep.dir/scrInteractor.cpp.o CMakeFiles/ep.dir/TrackBall.cpp.o -o ep  -lGL -lGLU -lglut -lGL -lGLU -lglut -lGLEW -lX11 
